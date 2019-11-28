@@ -1,7 +1,7 @@
-# leetcode
+# Algorithms
 
-leetcode code
+algorithms code
 
-## Algorithms 算法
+## List
 
 [X] [208.implement-trie-prefix-tree](algorithms/208)
