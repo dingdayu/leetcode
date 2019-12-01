@@ -1,7 +1,7 @@
 # Longest Palindromic Substring
 
 ID: `5`  
-Name: `3sum`  
+Name: `longest-palindromic-substring`  
 Url: [longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)  
 Pass: `2019-11-30`
 
