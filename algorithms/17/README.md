@@ -1,9 +1,9 @@
-# 3sum
+# Letter Combinations Of A Phone Number
 
 ID: `17`  
 Name: `letter-combinations-of-a-phone-number` (`电话号码的字母组合`)  
 Url: [letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  
-Pass: `2019-11-29`
+Pass: `2019-12-02`
 
 ## Description
 
