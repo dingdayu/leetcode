@@ -12,3 +12,4 @@ leetcode code
 - [X] [15.3sum](algorithms/15) [2019-11-29]
 - [X] [208.implement-trie-prefix-tree](algorithms/208) [2019-11-28]
 - [X] [344.reverse-string](algorithms/344) [2020-02-05]
+- [X] [151.reverse-words-in-a-string](algorithms/151) [2020-02-05]
