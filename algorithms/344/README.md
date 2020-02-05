@@ -27,6 +27,26 @@ Pass: `2020-02-05`
 输出：["h","a","n","n","a","H"]
 ```
 
+## Benchmark
+
+```bash
+$ go test -test.bench=".*" -count=5 
+goos: darwin
+goarch: amd64
+Benchmark_reverseString-4       100000000               12.1 ns/op
+Benchmark_reverseString-4       94788938                12.3 ns/op
+Benchmark_reverseString-4       100000000               12.2 ns/op
+Benchmark_reverseString-4       100000000               12.3 ns/op
+Benchmark_reverseString-4       89758803                13.6 ns/op
+Benchmark_reverseString2-4      100000000               10.2 ns/op
+Benchmark_reverseString2-4      100000000               10.9 ns/op
+Benchmark_reverseString2-4      100000000               10.1 ns/op
+Benchmark_reverseString2-4      100000000               10.3 ns/op
+Benchmark_reverseString2-4      96893512                10.7 ns/op
+PASS
+ok      _/Users/Shared/git/dingdayu/leetcode/algorithms/344     11.698s
+```
+
 ## Record
 
 ![Record](record.png "Record")

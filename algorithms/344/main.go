@@ -11,8 +11,24 @@ func reverseString(s []byte) {
 	}
 }
 
+func reverseString2(s []byte) {
+	if len(s) == 0 {
+		return
+	}
+	i := 0
+	j := len(s) - 1
+	var t byte
+	for i < j {
+		t = s[i]
+		s[i] = s[j]
+		s[j] = t
+		i++
+		j--
+	}
+}
+
 func main() {
 	str := []byte("hello")
-	reverseString(str)
+	reverseString2(str)
 	fmt.Println(string(str))
 }
