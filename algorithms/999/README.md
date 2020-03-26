@@ -34,7 +34,7 @@ Tag: `每日一条`
 
 示例 2：
 
-<img src="1253_example_2_improved.png" alt="实例2" style="width:200px;"/>
+<img src="1253_example_2_improved.png" alt="实例2" width="200"/>
 
 ```
 输入：[[".",".",".",".",".",".",".","."],

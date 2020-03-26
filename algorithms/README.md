@@ -13,3 +13,4 @@ algorithms code
 - [X] [151.reverse-words-in-a-string](151)
 - [X] [208.implement-trie-prefix-tree](208)
 - [X] [344.reverse-string](344)
+- [X] [999.available-captures-for-rook](999)
